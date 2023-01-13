@@ -11,17 +11,17 @@
         <td align = "center" width = "96" height="96">
           <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html"/>
           </br>
-          "html"
+          html
         </td>
         <td align = "center" width = "96" height="96">
           <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="html"/>
           </br>
-          "CSS"
+          CSS
         </td>
         <td align = "center" width = "96" height="96">
           <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="48" height="48" alt="html"/>
           </br>
-          "javascript"
+          javascript
         </td>
       </tr>
     </tbody>
