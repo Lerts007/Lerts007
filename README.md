@@ -3,4 +3,4 @@
 <h3 align="center">I am looking for a job.</h3>
 
 <h2 align="left" dir="auto">
-<img src = "https://raw.githubusercontent.com/Lerts007/Lerts007/main/img/tool.png"/> Technologies and Tools I use:</h2>
+<img src = "https://raw.githubusercontent.com/Lerts007/Lerts007/main/img/tool.png" style = "width: 20px; height: 20px; "/> Technologies and Tools I use:</h2>
