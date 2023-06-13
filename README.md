@@ -1,5 +1,5 @@
 <h1 align="center">Привет, меня зовут Дмитрий
-<img src="https://raw.githubusercontent.com/Lerts007/Lerts007/main/img/Hi.gif" height="32"/></h1>
+<img src="https://raw.githubusercontent.com/Lerts007/Lerts007/main/img/Hi.gif" style = "width: 32px; height: 32px;"/></h1>
 <h3 align="center">Сейчас я ищу работу, компанию с перспективой развития навыков и карьерного роста. Я быстро осваиваю новый материал. Я готов учиться и совершенствовать свои профессиональные навыки. </h3>
 
 <h2 align="left" dir="auto">
