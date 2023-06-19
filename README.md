@@ -31,3 +31,8 @@
       </tr>
     </tbody>
   </table>
+
+## Курсы которые я прошел:
+
+- [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/Lerts/responsive-web-design)
+  ![freeCodeCamp Responsive Web Design](./img/freeCodeCamp_Responsive_Web_Design.png)
