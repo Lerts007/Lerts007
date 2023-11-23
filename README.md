@@ -21,7 +21,7 @@
         <td align = "center" width = "96" height="96">
           <img src = "./img/scss.png" width="48" height="48" alt="html"/>
           </br>
-          CSS
+          SCSS
         </td>
         <td align = "center" width = "96" height="96">
           <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="48" height="48" alt="html"/>
