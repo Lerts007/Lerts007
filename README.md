@@ -28,7 +28,7 @@
           </br>
           JavaScript
         </td>
-        <td style="text-align: center" width = "96" height="96">
+        <td align="center" width = "96" height="96">
           <img src = "./img/vue.svg" width="48" height="48" alt="vue"/>
           </br>
           Vue.js
