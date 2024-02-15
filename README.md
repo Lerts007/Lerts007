@@ -5,57 +5,47 @@
 <h2 dir="auto">
 <img src = "https://raw.githubusercontent.com/Lerts007/Lerts007/main/img/tool.png" style = "width: 20px; height: 20px; "/> Технологии и инструменты, которые я использую:</h2>
 
-<div>
-  <div id="block">
-    <div id='block__card' align="center">
-      <img src = "./img/html.svg" width="48" height="48" alt="html"/>
-        <br/>
+  <table>
+    <tbody>
+      <tr>
+        <td align="center" width = "96" height="96">
+        <img src = "./img/html.svg" width="48" height="48" alt="html"/>
+          <br/>
           html
-    </div>
-    <div id='block__card' align="center">
-      <img src = "./img/css.svg" width="48" height="48" alt="css"/>
-        <br/>
+        </td>
+        <td align="center" width = "96" height="96">
+        <img src = "./img/css.svg" width="48" height="48" alt="css"/>
+          <br/>
           CSS
-    </div>
-    <div id='block__card' align="center">
-      <img src = "./img/scss.png" width="48" height="48" alt="html"/>
+        </td>
+        <td align="center" width = "96" height="96">
+          <img src = "./img/scss.png" width="48" height="48" alt="html"/>
           </br>
           SCSS
-    </div>
-    <div id='block__card' align="center">
-      <img src = "./img/js.svg" width="48" height="48" alt="js"/>
+        </td>
+        <td align="center" width = "96" height="96">
+          <img src = "./img/js.svg" width="48" height="48" alt="js"/>
           </br>
           JavaScript
-    </div>
-    <div id='block__card' align="center">
-      <img src = "./img/vue.svg" width="48" height="48" alt="vue"/>
+        </td>
+        <td align="center" width = "96" height="96">
+          <img src = "./img/vue.svg" width="48" height="48" alt="vue"/>
           </br>
           Vue.js
-    </div>
-    <div id='block__card' align="center">
-      <img src = "./img/vuex.svg" width="48" height="48" alt="vue"/>
+        </td>
+        <td align="center" width = "96" height="96">
+          <img src = "./img/vuex.svg" width="48" height="48" alt="vue"/>
           </br>
           Vuex
-    </div>
-    <div id='block__card' align="center">
-      <img src = "./img/axios.svg" width="48" height="48" alt="vue"/>
+        </td>
+        <td align="center" width = "96" height="96">
+          <img src = "./img/axios.svg" width="48" height="48" alt="vue"/>
           </br>
           Axios
-    </div>
-      </div>
-</div>
-
-<style>
-    #block{
-      display:flex; 
-      flex-wrap: wrap;
-    }
-    #block__card{
-      width: 75px; 
-      padding: 10px; 
-      border: 1px solid #30363d;
-    }
-  </style>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
 ## Курсы которые я прошел:
 
