@@ -6,35 +6,45 @@
 <img src = "https://raw.githubusercontent.com/Lerts007/Lerts007/main/img/tool.png" style = "width: 20px; height: 20px; "/> Технологии и инструменты, которые я использую:</h2>
 
   <table>
-    <tbody>
-      <tr>
-        <td align="center" width = "96" height="96">
+    <div>
+      <div style="display:flex; flex-wrap: wrap;">
+        <div style="width: 75px; padding: 10px; border: 1px solid #30363d" align="center">
         <img src = "./img/html.svg" width="48" height="48" alt="html"/>
           <br/>
           html
-        </td>
-        <td align="center" width = "96" height="96">
+        </div>
+        <div style="width: 75px; padding: 10px; border: 1px solid #30363d" align="center">
         <img src = "./img/css.svg" width="48" height="48" alt="css"/>
           <br/>
           CSS
-        </td>
-        <td align="center" width = "96" height="96">
+        </div>
+        <div style="width: 75px; padding: 10px; border: 1px solid #30363d" align="center">
           <img src = "./img/scss.png" width="48" height="48" alt="html"/>
           </br>
           SCSS
-        </td>
-        <td align="center" width = "96" height="96">
+        </div>
+        <div style="width: 75px; padding: 10px; border: 1px solid #30363d" align="center">
           <img src = "./img/js.svg" width="48" height="48" alt="js"/>
           </br>
           JavaScript
-        </td>
-        <td align="center" width = "96" height="96">
+        </div>
+        <div style="width: 75px; padding: 10px; border: 1px solid #30363d" align="center">
           <img src = "./img/vue.svg" width="48" height="48" alt="vue"/>
           </br>
           Vue.js
-        </td>
-      </tr>
-    </tbody>
+        </div>
+        <div style="width: 75px; padding: 10px; border: 1px solid #30363d" align="center">
+          <img src = "./img/vuex.svg" width="48" height="48" alt="vue"/>
+          </br>
+          Vuex
+        </div>
+        <div style="padding: 10px; border: 1px solid #30363d" align="center">
+          <img src = "./img/axios.svg" width="48" height="48" alt="vue"/>
+          </br>
+          Axios
+        </div>
+      </div>
+    </div>
   </table>
 
 ## Курсы которые я прошел:
