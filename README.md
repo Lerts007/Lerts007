@@ -47,11 +47,11 @@
     </div>
   </section>
   <style>
-    #block{
+    #user-content-block{
       display:flex; 
       flex-wrap: wrap;
     }
-    #block__card{
+    #user-content-block__card{
       width: 75px; 
       padding: 10px; 
       border: 1px solid #30363d;
