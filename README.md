@@ -5,7 +5,7 @@
 <h2 dir="auto">
 <img src = "https://raw.githubusercontent.com/Lerts007/Lerts007/main/img/tool.png" style = "width: 20px; height: 20px; "/> Технологии и инструменты, которые я использую:</h2>
 
-  <table>
+  <section>
     <div>
       <div id="block">
         <div id='block__card' align="center">
@@ -45,7 +45,7 @@
         </div>
       </div>
     </div>
-  </table>
+  </section>
   <style>
     #block{
       display:flex; 
