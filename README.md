@@ -7,38 +7,38 @@
 
   <table>
     <div>
-      <div style="display:flex; flex-wrap: wrap;">
-        <div style="width: 75px; padding: 10px; border: 1px solid #30363d" align="center">
+      <div id="block">
+        <div id='block__card' align="center">
         <img src = "./img/html.svg" width="48" height="48" alt="html"/>
           <br/>
           html
         </div>
-        <div style="width: 75px; padding: 10px; border: 1px solid #30363d" align="center">
+        <div id='block__card' align="center">
         <img src = "./img/css.svg" width="48" height="48" alt="css"/>
           <br/>
           CSS
         </div>
-        <div style="width: 75px; padding: 10px; border: 1px solid #30363d" align="center">
+        <div id='block__card' align="center">
           <img src = "./img/scss.png" width="48" height="48" alt="html"/>
           </br>
           SCSS
         </div>
-        <div style="width: 75px; padding: 10px; border: 1px solid #30363d" align="center">
+        <div id='block__card' align="center">
           <img src = "./img/js.svg" width="48" height="48" alt="js"/>
           </br>
           JavaScript
         </div>
-        <div style="width: 75px; padding: 10px; border: 1px solid #30363d" align="center">
+        <div id='block__card' align="center">
           <img src = "./img/vue.svg" width="48" height="48" alt="vue"/>
           </br>
           Vue.js
         </div>
-        <div style="width: 75px; padding: 10px; border: 1px solid #30363d" align="center">
+        <div id='block__card' align="center">
           <img src = "./img/vuex.svg" width="48" height="48" alt="vue"/>
           </br>
           Vuex
         </div>
-        <div style="padding: 10px; border: 1px solid #30363d" align="center">
+        <div id='block__card' align="center">
           <img src = "./img/axios.svg" width="48" height="48" alt="vue"/>
           </br>
           Axios
@@ -46,6 +46,17 @@
       </div>
     </div>
   </table>
+  <style>
+    #block{
+      display:flex; 
+      flex-wrap: wrap;
+    }
+    #block__card{
+      width: 75px; 
+      padding: 10px; 
+      border: 1px solid #30363d;
+    }
+  </style>
 
 ## Курсы которые я прошел:
 
